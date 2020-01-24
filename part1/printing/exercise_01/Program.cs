@@ -8,6 +8,6 @@ namespace exercise_01
         {
             Console.WriteLine("Hello World!");
             
-        }
+        }Console.WriteLine("Once upon a time")
     }
 }
