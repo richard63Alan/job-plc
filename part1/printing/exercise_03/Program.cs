@@ -7,6 +7,7 @@ namespace exercise_03
         public static void Main(string[] args)
         {
             // Your code here:
+            Console.WriteLine("Once upon a time/I was falling in love/Now I'm omly falling apart/;
         }
     }
 }
