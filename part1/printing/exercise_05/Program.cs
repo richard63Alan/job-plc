@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace exercise_05
 {
@@ -7,8 +8,8 @@ namespace exercise_05
         public static void Main(string[] args)
         {
             string name = "Ada Lovelace";
-            // Write your code here:
-            
-        }
+            // Write your
+        Console.WriteLine("Hello " + name + "!" );
+        }             
     }
 }

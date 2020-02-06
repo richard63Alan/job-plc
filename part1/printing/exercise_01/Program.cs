@@ -6,8 +6,8 @@ namespace exercise_01
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Add your code here:
             
-        }Console.WriteLine("Once upon a time")
+        }
     }
 }
